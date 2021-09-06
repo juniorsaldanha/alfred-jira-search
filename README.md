@@ -31,4 +31,7 @@ The jira username associated with the API token.
 E.g. `foo@bar.com`
 
 
-It also needs [jq](https://stedolan.github.io/jq/) to be installed.   
+It also needs [jq](https://stedolan.github.io/jq/) to be installed, to install use brew as example below.   
+```bash
+brew install jq
+```
